@@ -1,1 +1,5 @@
-minio/minio
+portainer/portainer-c
+jenkins/jenkins
+rabbitmq
+nacos/nacos-server
+li314087278/centos7_ssh_java
