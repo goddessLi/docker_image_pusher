@@ -1,8 +1,4 @@
-mongo
-wurstmeister/kafka
-apache/rocketmq
-openjdk
-elasticsearch
+elasticsearch:8.7.1
 node
 python
 gitlab/gitlab-ce
