@@ -1,1 +1,9 @@
-mysql:5.7
+mongo
+wurstmeister/kafka
+apache/rocketmq
+openjdk
+elasticsearch
+node
+python
+gitlab/gitlab-ce
+tomcat
