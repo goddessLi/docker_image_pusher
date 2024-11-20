@@ -1,4 +1,4 @@
-portainer/portainer-c
+portainer/portainer-ce
 jenkins/jenkins
 rabbitmq
 nacos/nacos-server
