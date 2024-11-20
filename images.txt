@@ -1,5 +1,1 @@
-portainer/portainer-ce
-jenkins/jenkins
-rabbitmq
-nacos/nacos-server
-li314087278/centos7_ssh_java
+mysql:5.7
