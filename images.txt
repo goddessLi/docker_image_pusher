@@ -1,3 +1,1 @@
-opengauss/opengauss
-bitnami/postgresql
-
+mcr.microsoft.com/mssql/server
