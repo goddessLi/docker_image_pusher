@@ -1,1 +1,1 @@
-mcr.microsoft.com/mssql/server
+opengauss/opengauss:3.1.0
